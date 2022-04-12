@@ -1,0 +1,3 @@
+// the style in page footer is modified, `script is not and nither template. I got all of the cli stuff done. NEED TO MAKE COMPONENTS AND DO THE BONUS.
+// So i have the min met with the header, footer and main. I am trying to do the bonus with a drop down menu and have the stuff on the page but cant get it as a drop down. 
+// I also want to do it as a side menu so that it is a side menu and a drop down which should be 2/3 bonus components.
